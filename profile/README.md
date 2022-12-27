@@ -18,7 +18,7 @@
 
 • :package: **Paxy**: https://github.com/PaxyHub/paxy 
 
-• :blue_book: **Paxy Book**: https://github.com/PaxyHub/paxy-book
+• :blue_book: **Book**: https://github.com/PaxyHub/paxy-book
 
 • :earth_americas: **Website**: https://github.com/PaxyHub/paxyhub.github.io
 
