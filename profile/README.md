@@ -6,7 +6,7 @@
 
 ## Links
 
-• :card_box: **GitHub Organization**: https://github.com/PaxyHub
+• 🗃️ **GitHub Organization**: https://github.com/PaxyHub
 
 • :earth_americas: **Website**: https://paxyhub.github.io
 
