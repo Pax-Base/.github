@@ -1,4 +1,4 @@
-# Pax Base 
+# Pax-Hub 
 
 ## Paxy - *A package manager that gets out of your way*
 
@@ -8,20 +8,20 @@
 
 ### Links
 
-• 🗃️ **GitHub Organization**: https://github.com/pax-base
+• 🗃️ **GitHub Organization**: https://github.com/pax-hub
 
-• :earth_americas: **Website**: https://pax-base.github.io
+• :earth_americas: **Website**: https://pax-hub.github.io
 
-• :blue_book: **Book**: https://pax-base.github.io/paxy-book
+• :blue_book: **Book**: https://pax-hub.github.io/paxy-book
 
-• :bookmark_tabs: **API Documentation**: https://pax-base.github.io/paxy
+• :bookmark_tabs: **API Documentation**: https://pax-hub.github.io/paxy
 
 ### Sources:
 
-• :package: **Paxy**: https://github.com/pax-base/paxy 
+• :package: **Paxy**: https://github.com/pax-hub/paxy 
 
-• :blue_book: **Book**: https://github.com/pax-base/paxy-book
+• :blue_book: **Book**: https://github.com/pax-hub/paxy-book
 
-• :earth_americas: **Website**: https://github.com/pax-base/paxyhub.github.io
+• :earth_americas: **Website**: https://github.com/pax-hub/paxyhub.github.io
 
-• :busts_in_silhouette: **GitHub Profile**: https://github.com/pax-base/.github
+• :busts_in_silhouette: **GitHub Profile**: https://github.com/pax-hub/.github
