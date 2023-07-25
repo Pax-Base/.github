@@ -50,13 +50,13 @@ The approach taken here to _get out of the user's way_ is the development of too
 
 #### Links
 
-• :blue_book: **Book**: https://pax-hub.github.io/paxy-book
-
 • :bookmark_tabs: **API Documentation**: https://pax-hub.github.io/paxy
+
+• :blue_book: **Book**: https://pax-hub.github.io/paxy-book
 
 #### Sources:
 
-• :blue_book: **Book**: https://github.com/pax-hub/paxy-book
-
 • :package: **Paxy**: https://github.com/pax-hub/paxy 
+
+• :blue_book: **Book**: https://github.com/pax-hub/paxy-book
 
