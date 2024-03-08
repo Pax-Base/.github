@@ -59,4 +59,3 @@ The approach taken here to _get out of the user's way_ is the development of too
 • :package: **Paxy**: https://github.com/pax-hub/paxy 
 
 • :blue_book: **Book**: https://github.com/pax-hub/paxy-book
-
