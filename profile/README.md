@@ -52,10 +52,10 @@ The approach taken here to _get out of the user's way_ is the development of too
 
 • :bookmark_tabs: **API Documentation**: https://pax-hub.github.io/paxy
 
-• :blue_book: **Book**: https://pax-hub.github.io/paxy-book
+• :blue_book: **Book**: https://pax-hub.github.io/book-paxy
 
 #### Sources:
 
 • :package: **Paxy**: https://github.com/pax-hub/paxy 
 
-• :blue_book: **Book**: https://github.com/pax-hub/paxy-book
+• :blue_book: **Book**: https://github.com/pax-hub/book-paxy
