@@ -14,7 +14,7 @@
 
 • :earth_americas: **Website**: https://github.com/pax-hub/pax-hub.github.io
 
-## Why bother?
+<!-- ## Why bother?
 
 ### _"Use a proprietary operating system(OS) instead. Windows and MacOS exist!"_
 In addition to the very important and reasonably valid privacy and trustworthiness concerns (there are great online commentaries on this), let us not forget that underprivileged people exist and they often have to overcome multiple barriers before they can fruitfully use computing to alleviate their socioeconomic situation - this involves gaining access to computing hardware, and also gaining access to the relevant software. 
@@ -38,7 +38,7 @@ How is that any nobler than someone else dictating them to learn medicine to sav
 
 Simplifying the use of Linux can break down the major hurdles that users have, to using it for their workflows.
 The OS (and software in general) should get out of the way of the user and should instead let the user focus on their task (for example, a user should not have to spend time learning how to troubleshoot their OS so that they can eventually do their schoolwork before their deadline). 
-The approach taken here to _get out of the user's way_ is the development of tools that can abstract and automate any possible processes and details in the day-to-day usage of Linux.
+The approach taken here to _get out of the user's way_ is the development of tools that can abstract and automate any possible processes and details in the day-to-day usage of Linux. -->
 
 ## The Tools
 
